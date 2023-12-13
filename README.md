@@ -1,4 +1,5 @@
 akun website warongwarem
+
   manager    :
       username   : admin
       password   : admin
@@ -7,6 +8,6 @@ akun website warongwarem
       username   : oksi
       Password   : 123
 
-  Pelyayan   :
+  Pelayan   :
       username   : agus
       password   : 123
